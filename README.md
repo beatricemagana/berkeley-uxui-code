@@ -1,1 +1,3 @@
-# berkeley-uxui-code-
+# berkeley-uxui-code
+
+UX UI Design course 
